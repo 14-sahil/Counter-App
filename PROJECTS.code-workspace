@@ -1,0 +1,10 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "13 - Increment Decrement"
+  }
+}
